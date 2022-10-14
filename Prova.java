@@ -8,5 +8,8 @@ public class Prova {
         public int alisia() {
          return x*y;
     }
+    public void corri(){
+        System.out.println("Alisia corre");
+    }
     }
 
