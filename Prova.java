@@ -11,5 +11,8 @@ public class Prova {
     public void corri(){
         System.out.println("Alisia corre");
     }
+    public void cammina(){
+        System.out.println("Cammino");
+    }
     }
 
